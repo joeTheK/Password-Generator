@@ -1,4 +1,5 @@
-while True:
+cash = -1
+while cash < 0:
     cash = float(input("Cash:"))
     break
 
